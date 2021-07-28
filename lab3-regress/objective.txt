@@ -1,0 +1,1 @@
+Regression analysis. Using snow gauge data on the Fraser river, and fraser river levels at Mission BC, students will apply regression analysis to find that the deepest snowpack and the largest flood of a given year are positively correlated, and that both also correlate to the sea surface temperature in the Pacific. This lab is largely done -- a climate theme!

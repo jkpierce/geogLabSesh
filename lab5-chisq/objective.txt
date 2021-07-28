@@ -1,0 +1,1 @@
+Chi squared analysis. Have to think about this one... any thoughts are welcome! Either need to compare real data to a model with goodness of fit, or evaluate whether some outcome depends on a categorical variable with contingency analysis. Urban geography would be a nice theme . . But what data is available? 

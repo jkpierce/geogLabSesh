@@ -1,0 +1,8 @@
+orientation to syzygy
+	> 
+
+finalize lab 3
+	> add questions
+	> add image and summary description in the notebook
+	> implement nb-grader
+

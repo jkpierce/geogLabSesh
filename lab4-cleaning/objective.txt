@@ -1,0 +1,1 @@
+Plotting / data cleaning.  Nina and Dan Moore constructed a lab on data cleaning methods in R. The data cleaning lab involves reservoir water levels in India which will provide an intro to time-series analysis and using real datasets. This has a bit of a water resources theme. 
