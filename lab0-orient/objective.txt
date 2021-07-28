@@ -1,1 +1,12 @@
 here students need to be introduced to how github works, how to use syzygy, how to use R at a basic level
+
+task list:
+> produce a pdf document which guides students through
+        1. accessing syzygy
+        2. moving the material from the course github to their local syzygy directory
+        3. starting the R tutorial notebook in syzygy
+> produce the R tutorial notebook for use in syzygy. This should
+        1. teach students how to download and install packages
+        2. teach students how to use both markdown and R to perform basic calculations (mean, standard deviation, variance)
+        3. teach students how to load in data
+        4. show students how to produce basic plots to visualize data (bar chart, line graph)
