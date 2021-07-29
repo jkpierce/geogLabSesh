@@ -1,1 +1,1 @@
-This is lab material for Nina Hewitt's geog374 "statistics in geography" course
+This is lab material for a "statistics in geography" course
